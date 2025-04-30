@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "B.m.b-Xmd~4eEmzbZK#INqVd5q6LchdhCYzBxgDyt0foi4VF2xFbLvrhCsQ_2g",
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
@@ -17,11 +17,11 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "25566862457",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "243899493592",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "✦ B.M.B-XMD ✦ XMD ✦",
+OWNER_NAME: process.env.OWNER_NAME || "Az-boy Exclu",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ✦ B.M.B-XMD ✦ XMD ✦*",
+DESCRIPTION: process.env.DESCRIPTION || "*Je suis l Exclu.*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p9hyal.jpg",
 // add img for alive msg
